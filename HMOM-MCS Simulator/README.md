@@ -155,7 +155,7 @@ If you use this code, please cite the paper:
 @article{hosseini2025hmom,
   title={HMOM-MCS: Hybrid Metaheuristic Driven Multilayer Incentive Mechanism for Time-Variant Decentralized Mobile Crowdsensing},
   author={Hosseini, Seyed Ali and Sojoodi Shijani, Omid and Khajehvand, Vahid},
-  journal={IEEE Open Journal of the Industrial Electronics Society},
+  journal=----------------------------------------------------------------,
   year={2025},
 }
 ```

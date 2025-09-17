@@ -1,6 +1,5 @@
 # HMOM-MCS: Hybrid Metaheuristic Driven Multilayer Incentive Mechanism for Time-Variant Decentralized Mobile Crowdsensing
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 
 This repository contains the official implementation of the HMOM-MCS framework, as described in the paper:
